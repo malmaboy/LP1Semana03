@@ -1,0 +1,15 @@
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/PercorreString/bin/Debug/net5.0/PercorreString.deps.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/PercorreString/bin/Debug/net5.0/PercorreString.runtimeconfig.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/PercorreString/bin/Debug/net5.0/PercorreString.runtimeconfig.dev.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/PercorreString/bin/Debug/net5.0/PercorreString.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/PercorreString/bin/Debug/net5.0/ref/PercorreString.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/PercorreString/bin/Debug/net5.0/PercorreString.pdb
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/PercorreString/obj/Debug/net5.0/PercorreString.csprojAssemblyReference.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/PercorreString/obj/Debug/net5.0/PercorreString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/PercorreString/obj/Debug/net5.0/PercorreString.AssemblyInfoInputs.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/PercorreString/obj/Debug/net5.0/PercorreString.AssemblyInfo.cs
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/PercorreString/obj/Debug/net5.0/PercorreString.csproj.CoreCompileInputs.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/PercorreString/obj/Debug/net5.0/PercorreString.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/PercorreString/obj/Debug/net5.0/ref/PercorreString.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/PercorreString/obj/Debug/net5.0/PercorreString.pdb
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/PercorreString/obj/Debug/net5.0/PercorreString.genruntimeconfig.cache

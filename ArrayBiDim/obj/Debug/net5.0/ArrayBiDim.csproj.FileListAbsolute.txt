@@ -1,0 +1,15 @@
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/ArrayBiDim/bin/Debug/net5.0/ArrayBiDim.deps.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/ArrayBiDim/bin/Debug/net5.0/ArrayBiDim.runtimeconfig.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/ArrayBiDim/bin/Debug/net5.0/ArrayBiDim.runtimeconfig.dev.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/ArrayBiDim/bin/Debug/net5.0/ArrayBiDim.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/ArrayBiDim/bin/Debug/net5.0/ref/ArrayBiDim.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/ArrayBiDim/bin/Debug/net5.0/ArrayBiDim.pdb
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/ArrayBiDim/obj/Debug/net5.0/ArrayBiDim.csprojAssemblyReference.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/ArrayBiDim/obj/Debug/net5.0/ArrayBiDim.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/ArrayBiDim/obj/Debug/net5.0/ArrayBiDim.AssemblyInfoInputs.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/ArrayBiDim/obj/Debug/net5.0/ArrayBiDim.AssemblyInfo.cs
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/ArrayBiDim/obj/Debug/net5.0/ArrayBiDim.csproj.CoreCompileInputs.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/ArrayBiDim/obj/Debug/net5.0/ArrayBiDim.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/ArrayBiDim/obj/Debug/net5.0/ref/ArrayBiDim.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/ArrayBiDim/obj/Debug/net5.0/ArrayBiDim.pdb
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/ArrayBiDim/obj/Debug/net5.0/ArrayBiDim.genruntimeconfig.cache

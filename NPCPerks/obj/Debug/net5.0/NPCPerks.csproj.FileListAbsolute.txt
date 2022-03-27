@@ -1,0 +1,15 @@
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/NPCPerks/bin/Debug/net5.0/NPCPerks.deps.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/NPCPerks/bin/Debug/net5.0/NPCPerks.runtimeconfig.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/NPCPerks/bin/Debug/net5.0/NPCPerks.runtimeconfig.dev.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/NPCPerks/bin/Debug/net5.0/NPCPerks.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/NPCPerks/bin/Debug/net5.0/ref/NPCPerks.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/NPCPerks/bin/Debug/net5.0/NPCPerks.pdb
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/NPCPerks/obj/Debug/net5.0/NPCPerks.csprojAssemblyReference.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/NPCPerks/obj/Debug/net5.0/NPCPerks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/NPCPerks/obj/Debug/net5.0/NPCPerks.AssemblyInfoInputs.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/NPCPerks/obj/Debug/net5.0/NPCPerks.AssemblyInfo.cs
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/NPCPerks/obj/Debug/net5.0/NPCPerks.csproj.CoreCompileInputs.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/NPCPerks/obj/Debug/net5.0/NPCPerks.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/NPCPerks/obj/Debug/net5.0/ref/NPCPerks.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/NPCPerks/obj/Debug/net5.0/NPCPerks.pdb
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula03/NPCPerks/obj/Debug/net5.0/NPCPerks.genruntimeconfig.cache
